@@ -1,0 +1,7 @@
+// drawabl ->  new -> drawable resourece file -> file name : border
+
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="2dp"/>
+    <stroke android:width="12dp" android:color="@color/red"/>
+</shape>
